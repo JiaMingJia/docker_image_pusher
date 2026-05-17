@@ -2,6 +2,9 @@ nginx
 alpine
 rabbitmq:4-management
 mysql
+consul:1.22.7
+mcr.microsoft.com/dotnet/sdk:10.0
+openeuler/openeuler:22.03-lts-sp4-minimal
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

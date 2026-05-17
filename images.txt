@@ -2,7 +2,7 @@ nginx
 alpine
 rabbitmq:4-management
 mysql
-consul:1.22.7
+consul
 mcr.microsoft.com/dotnet/sdk:10.0
 openeuler/openeuler:22.03-lts-sp4-minimal
 #支持私库

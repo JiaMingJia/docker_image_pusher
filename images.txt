@@ -1,3 +1,4 @@
+Redis
 nginx
 alpine
 rabbitmq:4-management
